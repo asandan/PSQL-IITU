@@ -1,0 +1,1 @@
+SELECT * FROM Users u WHERE u.firstName LIKE '%Assa%';
